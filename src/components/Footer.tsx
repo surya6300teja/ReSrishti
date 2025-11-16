@@ -22,7 +22,7 @@ const Footer = () => {
             className="flex flex-col items-center gap-4"
           >
             <div className="w-12 h-12 rounded-full bg-primary-foreground/10 flex items-center justify-center">
-              <img src="../public/favicon.png"  alt="Logo" className="w-12 h-12 sm:w-10 sm:h-10 object-contain" />
+              <img src="/favicon.png"  alt="Logo" className="w-16 h-16 sm:w-10 sm:h-10 object-contain" />
             </div>
             <h3 className="text-2xl font-semibold">Resrishti</h3>
             <p className="text-primary-foreground/80 max-w-md">

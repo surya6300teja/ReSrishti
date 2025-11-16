@@ -43,8 +43,8 @@ const Navbar = () => {
             className="flex items-center gap-2 sm:gap-3"
             whileHover={{ scale: 1.05 }}
           >
-            <div className="w-12 h-12 sm:w-12 sm:h-12 rounded-full flex items-center justify-center">
-                  <img src="../public/favicon.png"  alt="Logo" className="w-12 h-12 sm:w-10 sm:h-10 object-contain" />
+            <div className="w-16 h-16 sm:w-12 sm:h-12 rounded-full flex items-center justify-center">
+                  <img src="/favicon.png"  alt="Logo" className="w-12 h-12 sm:w-10 sm:h-10 object-contain" />
             </div>
             <span className="text-lg sm:text-xl font-semibold text-foreground">
               Resrishti
